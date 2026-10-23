@@ -1,0 +1,12 @@
+.hero {
+  min-height: 85vh;
+  background:
+    linear-gradient(rgba(13, 71, 161, 0.55), rgba(3, 169, 244, 0.55)),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVyxMHRaTW_5e4vGaoICQxVTYd7lGAJNEsfM4T_f5cWpMViWPCm2Xsp8G&s=10");
+  background-size: cover;
+  background-position: center;
+}
+
+.titulo-hero {
+  font-family: "algerian", Courier, monospace;
+}
